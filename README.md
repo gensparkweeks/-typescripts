@@ -24,9 +24,12 @@ tsc -init
 > Fibonacci series:
 >> From a number the App will be able to buils the serie. 
 ## Palindrome String/Number Project. 
-> Verifying if s String/Number is a palinfrome:
+> Verifying if a String/Number is a palindrome:
 >> From a String/Number the App will be able to check if 
 >> The String/Number is a palindrome.
+## Prime Number Project. 
+> Verifying if a Number is a prime number:
+>> From a Number the App will be able to check if 
+>> That Number is a prime number.
 
 ![Claim-Banner](/assets/banner.png "TypeScript")
-
