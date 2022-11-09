@@ -31,5 +31,8 @@ tsc -init
 > Verifying if a Number is a prime number:
 >> From a Number the App will be able to check if 
 >> That Number is a prime number.
-
+## Leap Year Project. 
+> Verifying if a Year is a Leap Year:
+>> From a Year the App will be able to check if 
+>> That Year is a leap year.
 ![Claim-Banner](/assets/banner.png "TypeScript")
